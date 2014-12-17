@@ -1,4 +1,4 @@
-﻿Public Class FastFileSystemSearch
+﻿Public Class Search
 
     Public Property Settings As New Settings
 
@@ -31,7 +31,7 @@
                     Enumerate(item.FullName, Files, Folder, multi)
                 Next
             End If
-           
+
         End If
 
         If Settings.RunEventForFiles Then
