@@ -6,3 +6,11 @@ C:\Users\marlin\Dropbox\Jobb\Github\FastFileSystemSearch\obj\Release\FastFileSys
 C:\Users\marlin\Dropbox\Jobb\Github\FastFileSystemSearch\obj\Release\FastFileSystemSearch.dll
 C:\Users\marlin\Dropbox\Jobb\Github\FastFileSystemSearch\obj\Release\FastFileSystemSearch.xml
 C:\Users\marlin\Dropbox\Jobb\Github\FastFileSystemSearch\obj\Release\FastFileSystemSearch.pdb
+I:\Dropbox\Jobb\Github\FastFileSystemSearch\bin\Release\FastFileSystemSearch.dll
+I:\Dropbox\Jobb\Github\FastFileSystemSearch\bin\Release\FastFileSystemSearch.pdb
+I:\Dropbox\Jobb\Github\FastFileSystemSearch\bin\Release\FastFileSystemSearch.xml
+I:\Dropbox\Jobb\Github\FastFileSystemSearch\obj\Release\FastFileSystemSearch.Resources.resources
+I:\Dropbox\Jobb\Github\FastFileSystemSearch\obj\Release\FastFileSystemSearch.vbproj.GenerateResource.Cache
+I:\Dropbox\Jobb\Github\FastFileSystemSearch\obj\Release\FastFileSystemSearch.dll
+I:\Dropbox\Jobb\Github\FastFileSystemSearch\obj\Release\FastFileSystemSearch.xml
+I:\Dropbox\Jobb\Github\FastFileSystemSearch\obj\Release\FastFileSystemSearch.pdb
